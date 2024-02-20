@@ -4,6 +4,6 @@ Esta práctica consistió en crear una página HTML muy básica con estilos y ar
 ## Cómo ver la práctica
 Para ver la práctica, sólo hay que descargar los archivos y ejecutar Live Server de Visual Studio. Además, hay que abrir el 'inspeccionar' de Chrome par apoder ver la salida de las funciones de JS.
 
-```bash
+```python
 console.log("Resta: ", res);
 ```
